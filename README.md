@@ -1,4 +1,4 @@
-# 👋 Hi, I'm N.A.K.S.S. Rakesh (@AkhilRoyal-5187)
+#  Hi, I'm N.A.K.S.S. Rakesh (@AkhilRoyal-5187)
 
 ### Full Stack Developer | MERN Stack Specialist
 
@@ -6,19 +6,19 @@ I build scalable, responsive web applications** using the MERN Stack (MongoDB, E
 
 ---
 
-### 🌱 Learning & Building
+###  Learning & Building
 
 Currently mastering advanced MERN concepts and seeking opportunities to apply my skills.
 
 ---
 
-### 💞️ Let's Connect!
+###  Let's Connect!
 
 Eager to collaborate with **startups** on innovative web projects.
 
 ---
 
-### 📫 Reach Me
+###  Reach Me
 
 * Email: akhilroyal5187@gmail.com
 * Phone: +91 8985114785
