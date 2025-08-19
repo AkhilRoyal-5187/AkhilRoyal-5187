@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN Stack Specialist
 
-I build scalable, responsive web applications** using the MERN Stack (MongoDB, Express.js, React.js, Node.js). I'm passionate about RESTful API development, data structures & algorithms**, and delivering **performance-optimized solutions.
+I build scalable, responsive web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js). I'm passionate about RESTful API development, data structures & algorithms, and delivering performance-optimized solutions.
 
 ---
 
@@ -14,7 +14,7 @@ Currently mastering advanced MERN concepts and seeking opportunities to apply my
 
 ###  Let's Connect!
 
-Eager to collaborate with **startups** on innovative web projects.
+Eager to collaborate with Startups on innovative web projects.
 
 ---
 
